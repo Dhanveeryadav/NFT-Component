@@ -33,7 +33,10 @@ Users should be able to:
 ---
 ![](./Screenshots/mobile.png)
 
+### Links
 
+- Solution URL: [Github](https://github.com/Dhanveeryadav/NFT-Component)
+- Live Site URL: [Live Site](https://flourishing-youtiao-03d220.netlify.app)
 
 ## My process
 
